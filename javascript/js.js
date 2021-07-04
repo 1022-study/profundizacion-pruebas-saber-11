@@ -26,6 +26,7 @@ function menuP() {
 
         contM.style.background = "black";
         contM.style.color = "white";
+        contM.style.height = "56px";
         a1.style.color = "white";
         a2.style.color = "white";
     }else if (innerWidth < 500 & scrollY == 0) {
