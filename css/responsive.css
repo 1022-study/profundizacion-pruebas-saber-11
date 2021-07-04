@@ -1,6 +1,8 @@
 @media (max-width: 500px) {
     #encabezado{
-      background: gray;
+        background:url(../Multimedia/fondo4.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
     margin: -56px -10px 48px -10px;
     text-align: center;
     height: 270px;
