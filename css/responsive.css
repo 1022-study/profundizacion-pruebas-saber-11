@@ -1,0 +1,26 @@
+@media (max-width: 500px) {
+    #encabezado{
+        background:url(https://lh3.googleusercontent.com/UC6MlhLgBeWNFenUjxFGjG4Kz71dGlTuBWnt_2RcmRNBevd492e4ngrSzMq5Xe4PiqOi9gD6_X1F=w376-h106-p);
+        background-repeat: no-repeat;
+        background-size:cover;
+    margin: -56px -10px 48px -10px;
+    text-align: center;
+    height: 270px;
+    }  
+    .ti{
+      font-size: 20px;
+      margin: 56px;
+      text-align: center;
+      padding: 89px 0px 15px 0px;  }
+    
+  #menu{
+    width: 100%;
+  }
+    #contM{
+      width: 100%;
+      height: 50px;
+      position: realive;
+      top: 265px;
+      position: fixed;
+    }
+  }
